@@ -1,0 +1,10 @@
+console.log(a);
+console.log(dsdgsgfgf);
+console.log(dsdgsgfgf);
+console.log(dsdgsgfgf);
+console.log(dsdgsgfgf);
+console.log(dsdgsgfgf);
+console.log(dsdgsgfgf);
+console.log(dsdgsgfgf);
+console.log(dsdgsgfgf);
+var a = "greeting";
