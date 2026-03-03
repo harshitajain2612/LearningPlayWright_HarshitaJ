@@ -1,5 +1,16 @@
 let score = 90;
 
+if ( typeof score !== "number"){
+    console.log("please provide the number, string not allowed");
+    return;
+}
+
+if (score<0 || score>100)
+    {
+    console.log("Score can be less than 0 and greater than 100");
+    return;
+}
+
 if(score>=90 && score <=100){
     console.log("Grade A")
 }
@@ -16,3 +27,7 @@ else if (score>=0 && score <=59){
 }else{
     console.log("invalid marks")
 }
+
+//template literal
+
+console.log(`for the score ${score} "Grade is --> ",${grade}`);
