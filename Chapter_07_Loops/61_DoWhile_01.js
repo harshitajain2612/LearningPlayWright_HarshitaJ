@@ -16,3 +16,5 @@ do {
 }while (a<10); // the code will execute at least once, even if the condition is false.
 
 
+
+
