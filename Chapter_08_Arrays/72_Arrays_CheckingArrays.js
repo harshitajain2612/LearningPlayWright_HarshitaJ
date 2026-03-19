@@ -29,5 +29,3 @@ console.log(s1);//true
 
 let s2 = [80,90,85].some(s => s<70);
 console.log(s2);//true
-
-

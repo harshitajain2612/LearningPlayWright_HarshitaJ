@@ -16,7 +16,7 @@ console.log(arr.slice(2)); //2nd index se aage jo bhi hai sab print honge
 
 console.log(arr.slice(-2)); //4,5   --> ( minus index starts in reverse)
 
-console.log(arr.slice(-3)); //3,4.5 
+console.log(arr.slice(-3)); //3,4,5 
 
 console.log(arr.slice(0)); //[ 1, 2, 3, 4, 5 ] - start from 0 and go untill end
 

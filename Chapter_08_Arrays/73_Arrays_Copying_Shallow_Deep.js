@@ -26,6 +26,6 @@ console.log(copy1);
 
 //Deep copy(JSON)
 let c = original;//deep copy
-copy.push(99);
+copy1.push(99);
 console.log(original);
 console.log(c);
