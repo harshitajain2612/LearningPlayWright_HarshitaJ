@@ -9,3 +9,6 @@ console.log(arr);
 console.log(arr.length);
 
 console.log(copy);
+
+
+
