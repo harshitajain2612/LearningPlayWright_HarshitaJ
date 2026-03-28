@@ -1,7 +1,7 @@
 function retry (testName, maxRetries = 3, delay =1000)
 {
 
-    comsole.log(`Retrying ${testName} up to ${maxRetries} times, ${delay}ms apart`)
+    console.log(`Retrying ${testName} up to ${maxRetries} times, ${delay}ms apart`)
 }
 
 retry("Login");

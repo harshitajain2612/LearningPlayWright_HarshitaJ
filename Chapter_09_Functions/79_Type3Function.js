@@ -6,4 +6,4 @@ function sayHello(){
 }
 
 let relatives = sayHello();
-console.log(relatives);//Prints Hello every time
+console.log(relatives);//Prints Hello
