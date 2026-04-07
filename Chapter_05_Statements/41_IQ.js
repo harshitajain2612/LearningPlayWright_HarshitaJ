@@ -8,7 +8,7 @@ if([]){
 
 //Question 2:Should I use if(response) of if(response!=null) in test assertions?
 
-//Answer --> Use if(response!=null) which catches both null and undefined, plain if (response) also fails on 0, "" , and false which might be legitimate API values.
+//Answer --> Use if(response!==null) which catches both null and undefined, plain if (response) also fails on 0, "" , and false which might be legitimate API values.
 
 //Question : 3 
 

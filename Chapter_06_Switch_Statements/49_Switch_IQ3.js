@@ -5,7 +5,7 @@ switch(x){
     console.log(b1);
     break ;
     case 10: let b2= 1;
-        console.log(b1);
+        console.log(b2);
     break;
 }
 
