@@ -7,6 +7,6 @@ getToken()
 });
 
 async function run(){
-    let token  = await getToknb();
+    let token  = await getToken();
      let user  = await getUser();
 }
