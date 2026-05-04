@@ -35,6 +35,9 @@ Repository layout
 - Chapter_18_TypeScript/: TypeScript basics and type annotations
 - chapter_19_Typescript_Interface/: interfaces, extends, readonly, optional properties, real-world QA examples
 - Chapter_20_Typescript_Enums/: enums with string and numeric values
+- Chapter_21_Generics_TS/: generic functions, classes, and API responses
+- Chapter_22_Private_Public_Protected/: private/public/protected access modifiers, readonly, abstract classes, decorators, method overriding
+- Chapter_23_Playwright_Fundamentals/: Playwright test setup, configuration, and test examples
 - Practice_Object_Classes/: practice exercises with classes and objects
 - PracticeTasks/: practice tasks for interfaces and advanced TypeScript
 - Lecture_Playwright_MCP/: Playwright with Model Context Protocol
